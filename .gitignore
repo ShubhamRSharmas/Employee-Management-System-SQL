@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore SQL Server specific files
+*.bak
+
+# Ignore Visual Studio files
+.vscode/
+.vs/
+
+# Ignore system or temporary files
+Thumbs.db
+.DS_Store
